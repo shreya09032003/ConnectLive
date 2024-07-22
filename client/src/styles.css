@@ -1,0 +1,18 @@
+body {
+    background:
+    linear-gradient(
+      rgb(0, 0, 0), 
+      rgb(0, 0, 0)
+    );
+    
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: hidden;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
